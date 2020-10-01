@@ -4,7 +4,7 @@
 [![dependencies Status](https://david-dm.org/appveyor/website/status.svg)](https://david-dm.org/appveyor/website)
 
 
-## Getting started
+## Getting started with Appveyor.com
 
 * Install [Node.js](https://nodejs.org/download/)
 * Install grunt: `npm install -g grunt-cli`
@@ -20,10 +20,10 @@
 * Run `gem install bundle` and then `bundle install`
 * Run `grunt build` to build the static site, `grunt` to build and watch for changes (`http://localhost:4000/`)
 
-## Staging
+## The Staging Branch
 
 The `staging` branch is published to <https://appveyor-staging.azurewebsites.net>.
 
-### TODO:
+### TO DO:
 
 * Fix HTML errors due to duplicate IDs in /updates/
